@@ -1,1 +1,1 @@
-change b.txt in two
+B CHANGED IN ONE
